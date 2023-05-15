@@ -6,5 +6,5 @@ https://itch.io/jam/hibernation-game-jam-a-thon/rate/1889702
 THEME:
 - Hibernation
 
-Personal role:
+Personal contributions:
 - Audio programming / Sound design

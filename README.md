@@ -1,7 +1,7 @@
 # TrustTheMachine
 
 Submission for Austin Texas Game Makers Game Jam.
-https://itch.io/jam/hibernation-game-jam-a-thon/rate/1889702
+- https://itch.io/jam/hibernation-game-jam-a-thon/rate/1889702
 
 THEME:
 - Hibernation
